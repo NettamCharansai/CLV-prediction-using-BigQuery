@@ -28,7 +28,7 @@ The project follows these steps:
 4. **Model Selection & Training**: Applies ML models (e.g., **Linear Regression, Decision Trees**) for CLV prediction.  
 5. **Evaluation & Business Insights**: Analyzes results, visualizes trends, and suggests marketing strategies.  
 
-## Expected Outcomes  
+## Outcomes  
 - **Accurate CLV predictions** to help businesses optimize marketing budgets.  
 - **Segmentation of customers** based on predicted lifetime value.  
 - **Improved customer retention strategies** by identifying high-value customers.  
