@@ -1,10 +1,7 @@
-# CLV-prediction-using-BigQuery
-
-
 # Customer Lifetime Value Prediction Using BigQuery  
 
 ## Overview  
-Customer Lifetime Value (CLV) prediction is essential for businesses to understand the long-term value of their customers. This project utilizes **Google BigQuery** for data processing and analysis to predict CLV efficiently. By leveraging **machine learning techniques** and **SQL-based feature engineering**, the model estimates the revenue a customer is expected to generate over time.  
+Customer Lifetime Value (CLV) prediction is essential for businesses to understand the long-term value of their customers. This project, completed as part of the **GCCF Course Lab Work**, utilizes **Google BigQuery** for large-scale data processing and analysis to predict CLV efficiently. By leveraging **machine learning techniques** and **SQL-based feature engineering**, the model estimates the revenue a customer is expected to generate over time.  
 
 ## Features  
 - **BigQuery for data storage & processing**: Handles large-scale customer data efficiently.  
@@ -58,4 +55,7 @@ The project follows these steps:
 - Modify SQL queries based on dataset requirements  
 
 ## Contribution  
-Contributions are welcome! Feel free to fork the repo and submit pull requests.  
+This project was completed as part of the **GCCF Course Lab Work**. Contributions are welcome! Feel free to fork the repo and submit pull requests.  
+
+## License  
+This project is licensed under the **MIT License**.  
