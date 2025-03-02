@@ -34,7 +34,7 @@ The project follows these steps:
 ## Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Customer-Lifetime-Value-Prediction.git  
+   git clone https://github.com/NettamCharansai/Customer-Lifetime-Value-Prediction.git  
    ```
 2. Install dependencies:  
    ```bash
